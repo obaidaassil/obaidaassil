@@ -3,7 +3,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obaidaassil" alt="obaidaassil" /></a> </p>
 
 - 🔭 I’m currently working on [kua](https://github.com/obaidaassil/kua)
 
