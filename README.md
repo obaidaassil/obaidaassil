@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Obaida Ahmed</h1>
-<h3 align="center">A Beginner frontend developer from and mobile developer from Egypt</h3>
+<h3 align="center">A Beginner frontend developer and mobile developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obaidaassil&label=Profile%20views&color=0e75b6&style=flat" alt="obaidaassil" /> </p>
 
